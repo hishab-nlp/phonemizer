@@ -32,7 +32,7 @@ setuptools.setup(
     # general description
     name='phonemizer',
     description=' Simple text to phones converter for multiple languages',
-    version=phonemizer.__version__,
+    version="3.2.2",
 
     # python package dependencies
     install_requires=['joblib',
