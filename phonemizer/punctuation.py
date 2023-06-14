@@ -22,7 +22,7 @@ from phonemizer.utils import str2list
 from phonemizer.separator import Separator
 
 # The punctuation marks considered by default.
-_DEFAULT_MARKS = ';:,.!?¡¿—…"«»“”(){}[]'
+_DEFAULT_MARKS = ';:,.!?¡¿—…"«»“”(){}[]।'
 
 _MarkIndex = collections.namedtuple(
     '_mark_index', ['index', 'mark', 'position'])
