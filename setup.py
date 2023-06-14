@@ -55,7 +55,7 @@ setuptools.setup(
     author_email='mathieu.a.bernard@inria.fr',
     license='GPL3',
     keywords='linguistics G2P phone festival espeak TTS',
-    url='https://github.com/hishab-nlp/phonemizer',
+    url='https://github.com/bootphon/phonemizer',
     long_description=codecs.open('README.md', encoding='utf-8').read(),
     long_description_content_type="text/markdown",
     classifiers=[
